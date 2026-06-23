@@ -1,0 +1,10 @@
+text,true_label,predicted_label,confidence
+Reggie being called overrated proves nobody here is older than fifteen.,unsupported_take,game_reaction,0.341
+LeBron leaving Cleveland became understandable because the organization gave him little support.,reasoned_opinion,evidence_based_analysis,0.265
+The league's global reach and scouting are much stronger now than in past eras.,evidence_based_analysis,reasoned_opinion,0.291
+"Rings, Erneh.",unsupported_take,game_reaction,0.431
+Tyrese is three wins away from passing Chris Paul. Incredible.,game_reaction,unsupported_take,0.277
+"GOAT arguments fail when people do not define peak, longevity, or championships.",evidence_based_analysis,reasoned_opinion,0.313
+"Dame is not top thirty all time, so loyalty does not change that debate.",reasoned_opinion,unsupported_take,0.294
+The game ended when the ball bounced off Wemby's leg.,game_reaction,evidence_based_analysis,0.356
+The refs completely rigged this game.,game_reaction,unsupported_take,0.27
